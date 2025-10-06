@@ -1,0 +1,42 @@
+.wrapper{
+  position: relative;
+}
+.container{
+  padding: .5rem .2rem;
+  background-color: #e2e3e4;
+}
+.settingIcon{
+  font-size: 1.6rem;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+}
+.chgBtn{
+  font-size: 1.1rem;
+  border-radius: 0;
+  border-width: 0;
+  background-color: rgb(192, 190, 190);
+  color: black;
+  font-weight: 600;
+  margin: 0 .2rem;
+  padding: .4rem .7rem;
+  cursor: pointer;
+}
+.prtDv{
+  padding: 5rem 0 0 0;
+  display: flex;
+  justify-content: center;
+}
+
+.cseIstt{
+  font-size: 1.2rem;
+  padding: .4rem .7rem;
+  display: flex;
+  text-align: center;
+  align-content: center;
+  background-color: rgb(231, 228, 228);
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
